@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://costear.nrdbsolutions.com/sitemap.xml
